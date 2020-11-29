@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="967fbd47-b88d-4200-9ab1-ad14a85a4acb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starbugs/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/starbugs/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/fonts/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/fonts/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/templates/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/user/templates/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1X6TgVxZ9njW7xnRXp8p9jqFlGL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/Django/new rubix/new_rubix_project" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\sih\starbugs\starbugs\static\img\faces" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sih\starbugs" />
+      <recent name="E:\sih\starbugs\starbugs" />
+      <recent name="E:\sih\starbugs\user" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="starbugs" type="Python.DjangoServer" factoryName="Django server">
+      <module name="starbugs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="starbugs.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="967fbd47-b88d-4200-9ab1-ad14a85a4acb" name="Default Changelist" comment="" />
+      <created>1580365655121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580365655121</updated>
+      <workItem from="1580365656309" duration="2970000" />
+      <workItem from="1580374016068" duration="2251000" />
+      <workItem from="1580391987642" duration="2273000" />
+      <workItem from="1580395012702" duration="5512000" />
+      <workItem from="1580446718480" duration="18364000" />
+      <workItem from="1580480499107" duration="2283000" />
+      <workItem from="1580555861336" duration="184000" />
+      <workItem from="1580567165225" duration="4289000" />
+      <workItem from="1580628087349" duration="10242000" />
+      <workItem from="1580665537703" duration="978000" />
+      <workItem from="1580711595226" duration="7622000" />
+      <workItem from="1580725182622" duration="310000" />
+      <workItem from="1580732355349" duration="750000" />
+      <workItem from="1580733126594" duration="2327000" />
+      <workItem from="1580784189836" duration="1274000" />
+      <workItem from="1580786788764" duration="1385000" />
+      <workItem from="1580792405512" duration="16955000" />
+      <workItem from="1581505154446" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="341" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580733103797">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="625" y="341" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1739.939@0.0.1739.939" timestamp="1580733103797" />
+    <state x="600" y="218" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580733280818">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="600" y="218" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1739.939@0.0.1739.939" timestamp="1580733280818" />
+    <state x="650" y="226" key="FileChooserDialogImpl" timestamp="1581505227153">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="650" y="226" key="FileChooserDialogImpl/0.0.1739.939@0.0.1739.939" timestamp="1581505227153" />
+    <state width="1696" height="141" key="GridCell.Tab.0.bottom" timestamp="1580833689906">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="141" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1580833689906" />
+    <state width="1696" height="141" key="GridCell.Tab.0.center" timestamp="1580833689906">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="141" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1580833689906" />
+    <state width="1696" height="141" key="GridCell.Tab.0.left" timestamp="1580833689906">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="141" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1580833689906" />
+    <state width="1696" height="141" key="GridCell.Tab.0.right" timestamp="1580833689906">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="141" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1580833689906" />
+    <state x="379" y="114" key="SettingsEditor" timestamp="1580733221800">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="379" y="114" key="SettingsEditor/0.0.1739.939@0.0.1739.939" timestamp="1580733221800" />
+  </component>
+</project>
